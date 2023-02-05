@@ -1,0 +1,55 @@
+#container {
+  width: auto;
+}
+
+#header {
+  background: #4a5051;
+  height: 150px;
+}
+
+#navigation {
+  background: #5e4781;
+  height: 40px;
+}
+
+#content {
+  background: #f4a005;
+  float: left;
+  width: 75%;
+  
+}
+
+#sidebar {
+ background: #989e75;
+ float: right;
+ width: 25%;
+ height: 1000px ;
+}
+
+#clear {
+  clear: both;
+}
+
+#footer {
+  margin-top: 4px;
+  background: #b9b02e;
+  height: 160px;
+}
+
+h2 {
+  margin: auto;
+}
+
+div {
+  margin-top: 2px;
+  text-align: center;
+}
+
+a {
+  color: #6177bf;
+}
+
+body{
+  font-family: 'Oswald', sans-serif;
+
+}
